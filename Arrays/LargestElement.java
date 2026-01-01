@@ -1,5 +1,5 @@
 // Problem: Largest Element in an Array
-// Pattern: Arrays
+// Pattern: Array
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
