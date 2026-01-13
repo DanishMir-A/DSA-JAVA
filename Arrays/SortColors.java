@@ -25,6 +25,7 @@ class Solution {
             }
         }
 
+        //other Approaches
         // int low =0;
         // int mid =0;
         // int high=0;
